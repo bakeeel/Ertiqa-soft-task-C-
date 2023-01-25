@@ -1,0 +1,14 @@
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\bin\Debug\Ertiqa soft.exe.config
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\bin\Debug\Ertiqa soft.exe
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\bin\Debug\Ertiqa soft.pdb
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\obj\Debug\Ertiqa soft.csprojResolveAssemblyReference.cache
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\obj\Debug\Ertiqa_soft.Form1.resources
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\obj\Debug\Ertiqa_soft.Properties.Resources.resources
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\obj\Debug\Ertiqa soft.csproj.GenerateResource.Cache
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\obj\Debug\Ertiqa soft.exe
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\obj\Debug\Ertiqa soft.pdb
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\obj\Debug\Ertiqa_soft.LoadForm.resources
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\obj\Debug\Ertiqa_soft.LoginUserControl.resources
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\obj\Debug\Ertiqa_soft.HomeForm.resources
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\obj\Debug\Ertiqa_soft.MainForm.resources
+D:\MyProjects\C#2022-6-15\3\Ertiqa soft\Ertiqa soft\obj\Debug\Ertiqa_soft.CustomeButton.resources
